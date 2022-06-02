@@ -1,12 +1,13 @@
 using System;
 
-namespace ConsoleApplication
+namespace Testowa
 {
-    public class Program
+    class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            Console.WriteLine("Hello My World!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
+
