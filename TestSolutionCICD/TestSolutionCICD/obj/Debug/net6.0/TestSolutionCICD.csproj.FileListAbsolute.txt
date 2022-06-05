@@ -1,0 +1,15 @@
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/bin/Debug/net6.0/TestSolutionCICD
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/bin/Debug/net6.0/TestSolutionCICD.deps.json
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/bin/Debug/net6.0/TestSolutionCICD.runtimeconfig.json
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/bin/Debug/net6.0/TestSolutionCICD.dll
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/bin/Debug/net6.0/TestSolutionCICD.pdb
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/obj/Debug/net6.0/TestSolutionCICD.csproj.AssemblyReference.cache
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/obj/Debug/net6.0/TestSolutionCICD.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/obj/Debug/net6.0/TestSolutionCICD.AssemblyInfoInputs.cache
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/obj/Debug/net6.0/TestSolutionCICD.AssemblyInfo.cs
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/obj/Debug/net6.0/TestSolutionCICD.csproj.CoreCompileInputs.cache
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/obj/Debug/net6.0/TestSolutionCICD.dll
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/obj/Debug/net6.0/refint/TestSolutionCICD.dll
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/obj/Debug/net6.0/TestSolutionCICD.pdb
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/obj/Debug/net6.0/TestSolutionCICD.genruntimeconfig.cache
+/Volumes/DATA/Devel/GitHub-cd-cd/test-cicd/TestSolutionCICD/TestSolutionCICD/obj/Debug/net6.0/ref/TestSolutionCICD.dll
