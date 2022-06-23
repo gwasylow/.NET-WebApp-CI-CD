@@ -10,7 +10,9 @@ Realny przykład z dnia 23.06.2022.
 
 Jakbyście ściągnęli repo zdalne do siebie (git clone) to ściągniecie historię moich commitow (równiez waszych) :-)
 
+
 ## wprowadzilem zmiane na branchu 'moja-nowa-funkcjonalnosc'
 - moje zmiany
 - tutaj rowniez
-- i tutaj
+## wersja pliku z brancha <Main>
+
