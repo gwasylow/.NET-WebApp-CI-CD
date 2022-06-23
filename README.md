@@ -9,3 +9,5 @@ on pozniej wejdzie do historii plikow (a tak naprawde do histroii kontroli wersj
 Realny przykład z dnia 23.06.2022.
 
 Jakbyście ściągnęli repo zdalne do siebie (git clone) to ściągniecie historię moich commitow (równiez waszych) :-)
+
+## wprowadzilem zmiane na branchu 'moja-nowa-funkcjonalnosc'
