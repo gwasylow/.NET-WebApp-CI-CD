@@ -3,4 +3,6 @@ Moj nowy plik dodany na branchu wsb-testy-automatyczne
 Dodatkow nowa zmiana na branchu.
 
 A ja jestem Ania, pracuje na branchu WSB-... i również modyfikuję ten sam plik INFO.TXT
-Będzie ciekawie - bo chcąć łączyć pliki poprzez MERGE/PULL REQUEST + MERGE będziemy mieli... KONFLIKT!
+Greg robi zmianę na branchu MAIN - pisząć lalala
+nananana
+tfu tfu tfu.
