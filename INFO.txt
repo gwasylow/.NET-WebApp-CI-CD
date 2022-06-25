@@ -1,1 +1,3 @@
 Moj nowy plik dodany na branchu wsb-testy-automatyczne
+
+Dodatkow nowa zmiana na branchu.
