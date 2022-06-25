@@ -16,3 +16,5 @@ Jakbyście ściągnęli repo zdalne do siebie (git clone) to ściągniecie histo
 - tutaj rowniez
 ## wersja pliku z brancha <Main>
 
+Dodaję nową linijkę w pliku w celu wykrycia zmian w README.md z dnia 25/06/2022 o godzinie 9:53.
+
