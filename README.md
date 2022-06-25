@@ -18,3 +18,9 @@ Jakbyście ściągnęli repo zdalne do siebie (git clone) to ściągniecie histo
 
 Dodaję nową linijkę w pliku w celu wykrycia zmian w README.md z dnia 25/06/2022 o godzinie 9:53.
 
+Hello World! Ania zmodyfikowała ten plik u siebie, w związku z czym:
+  - dokonała zmiany na pliku README.MD
+  - wykonała komendę: <<git status>>
+  - następnie: <<git add .>>
+  - nastepnie przygotwała commita z lokalnego Workspace do lokalnego brancha na którym się znajuje <<git commit -m "Moj commit ze zmianami do pliku README.MD">>
+  - na końcu wysyłając gotową paczkę (commit) z repozytorium lokalnego na swoim komputerze do repozytorium zdalnego w github komendą <<git push>>
